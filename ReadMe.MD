@@ -5,8 +5,8 @@ Computer Graphics Term Project
 Application Name: Wall Escape	
 Platform: Tizen  
 Team members and student No.:    
-	JIAYUAN WEI	(2016951198)
-	LI MINGYANG	(2015952194)
+		JIAYUAN WEI	(2016951198) 
+		LI MINGYANG	(2015952194)
 
 Our term project is “Wall Escape” which is a maze that needs players to find the way to the exit. What we expect to achieve is a simple application that can interact with people by doing some operations on the screen. Players can move their position in the maze by sliding their fingers on the screen or clicking the virtual direction arrows, that depends. What’s more, there will be a map guiding the way out. In this manner, the game can be easy to play while also be interesting.
 
