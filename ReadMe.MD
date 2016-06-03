@@ -16,3 +16,4 @@ We choose OpenGL ES to construct this 3D scene, meanwhile set the texture (brick
 Process
  - Make the proposal of term project and send it to TA by 2016/5/4.
  - Write a readme file (ReadMe.md).Commit and push the readme file to the remote repository. Turn in URL of the repository to Blackboard.
+ - Try to write some codes of the maze.
