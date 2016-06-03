@@ -17,3 +17,5 @@ Process
  - Make the proposal of term project and send it to TA by 2016/5/4.
  - Write a readme file (ReadMe.md).Commit and push the readme file to the remote repository. Turn in URL of the repository to Blackboard.
  * Try to creat a random maze.
+ * Choose some textures and Simply develop some codes of the maze.
+ 
